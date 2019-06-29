@@ -13,12 +13,14 @@ To run this bot you need:
   ```
   SCHEDULE_HOUR=17
   SCHEDULE_MINUTE=30
-  ``` means that message will be sent every day at ``17:30``
+  ``` 
+  means that message will be sent every day at ``17:30``
   If you want to set sending time to for example ``12.00`` it should be
   ```
   SCHEDULE_HOUR=12
   SCHEDULE_MINUTE=0
-  ``` like in CRON-style scheduling
+  ``` 
+  like in CRON-style scheduling
 4. Install all depedencies
   ```
   npm install
