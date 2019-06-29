@@ -1,11 +1,11 @@
 # DailyDilbert
-###Slack bot that sends Dilbert comic strip every day
+### Slack bot that sends Dilbert comic strip every day
 
 To run this bot you need:
  - Slack Bot Token ([You can generate it here](https://my.slack.com/services/new/bot))
  - Node.js version `10.15.3` or above
 
-##How to run bot:
+## How to run bot:
 
 1. Rename ``.env.example`` to ``.env``
 2. Add your bot token and your channel name
